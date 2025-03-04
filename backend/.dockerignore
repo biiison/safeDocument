@@ -1,0 +1,13 @@
+# Ignorar o diretório .git
+.git
+
+# Ignorar arquivos binários gerados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Ignorar diretórios de dependências
+vendor/
